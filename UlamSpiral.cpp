@@ -33,7 +33,7 @@ void generateFile(int N, int* x, int* y, int option) {
 		}
 	}
 	else if (option == 2) {
-		std::cout << "\\draw (" << x[0] << ", " << y[0] << ")";
+		std::cout << "\\draw [ultra thick] (" << x[0] << ", " << y[0] << ")";
 		for (int k=1; k<N; ++k) {
 			std::cout << "-- (" << x[k] << ", " << y[k] << ")";
 		}
