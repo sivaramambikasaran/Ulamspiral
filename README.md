@@ -1,4 +1,4 @@
-Ulamspiral
-==========
+Ulam Spiral
+===========
 
-Visualization of Ulam spiral
+Generates different visualization of the Ulam spiral.
