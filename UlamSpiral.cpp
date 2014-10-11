@@ -47,7 +47,7 @@ void generateFile(int N, int* x, int* y, int option) {
 	else if (option == 3) {
 		for (int k=0; k<N; ++k) {
 			if (isPrime(k+1) == 1) {
-				std::cout << "\\draw [fill=" << color << "] (" << x[k] << ", " << y[k] << ") circle (0.125);" << std::endl;
+				std::cout << "\\draw [fill=" << color << "] (" << x[k] << ", " << y[k] << ") circle (0.25);" << std::endl;
 			}
 		}
 	}
