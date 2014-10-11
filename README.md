@@ -26,6 +26,6 @@ Keying in '2' generate a .pdf file named "UlamSpiral_2.pdf"
 
 <img style = "float: center" src ="https://raw.githubusercontent.com/sivaramambikasaran/Ulamspiral/master/UlamSpiral_2.png" width="80%"/>
 
-Keying in semi-length = '150' and the option being '3' generates a .pdf file named "UlamSpiral_3.pdf"
+Keying in semi-length = '150' and the option = '3' generates a .pdf file named "UlamSpiral_3.pdf"
 
 <img style = "float: center" src ="https://raw.githubusercontent.com/sivaramambikasaran/Ulamspiral/master/UlamSpiral_3.png" width="80%"/>
